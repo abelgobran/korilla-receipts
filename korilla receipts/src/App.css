@@ -1,0 +1,38 @@
+
+
+
+
+.receipt-holder {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 20px;
+
+
+}
+
+.space{
+   background-color: white;
+   padding-left: 1rem;
+   padding-right: 1rem;
+}
+.receipt{
+  border-radius: 5%;
+  background-color: rgb(100, 141, 168);
+  padding: 10%;
+  display: grid;
+  padding: 1rem;
+  border-spacing: 1rem;
+  border-color: white;
+  mask-border-width: 2px;
+  margin: 0;
+  grid-template-columns: 1fr ;
+  height: 30rem;
+}
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
